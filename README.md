@@ -1,7 +1,9 @@
 # The website for Project 12
 
-This website contains all the latest client game files to download and play Project 12.  
-***These game files are currently configured to connect to the default game server! If you are hosting your own session, you may need to set up and configure [project12-local](https://github.com/Tmotomaster/project12-local)!***
+This website contains all the latest client game files to download and play Project 12.
+
+> [!IMPORTANT]
+> ***These game files are currently configured to connect to the default game server! If you are hosting your own session, you may need to set up and configure [project12-local](https://github.com/Tmotomaster/project12-local)!***
 
 
 ## How to configure on Ubuntu Server using nginx
